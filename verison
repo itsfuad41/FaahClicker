@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "release_date": "2026-09-18",
+  "download_url": "https://github.com/itsfuad41/FaahClicker/releases/latest",
+  "changelog": "Added GitHub version control, background key isolation, and improved playback engine."
+}
