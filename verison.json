@@ -1,7 +1,7 @@
-// version.js - FaahClicker Release Metadata
-{
-  "version": "1.0.1",
-  "release_date": "2026-09-21",
-  "download_url": "https://github.com/itsfuad41/FaahClicker/releases/latest",
-  "changelog": "Placed Sound option inside Settings, added .fc file format, and resolved modifier key issues."
-}
+// FaahClicker Version Control
+const FaahClickerUpdate = {
+  version: "1.0.1",
+  release_date: "2026-09-21",
+  download_url: "https://github.com/itsfuad41/FaahClicker/releases/latest",
+  changelog: "Added .fc file association, sound toggle inside settings, and win32 hotkey suppression."
+};
