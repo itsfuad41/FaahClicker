@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "release_date": "2026-09-21",
+  "version": "1.0.2",
+  "release_date": "2026-09-22",
   "download_url": "https://github.com/itsfuad41/FaahClicker/releases/latest",
-  "changelog": "Added .fc file association, sound toggle inside settings, and win32 hotkey suppression."
+  "changelog": "Added full keyboard key support in hotkeys settings, sound toggle under settings, .fc macro file extension support, and bulletproof global hotkey handling."
 }
