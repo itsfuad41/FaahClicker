@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
-  "release_date": "2026-09-22",
+  "version": "1.0.3",
+  "release_date": "2026-09-23",
   "download_url": "https://github.com/itsfuad41/FaahClicker/releases/latest",
-  "changelog": "Added full keyboard key support in hotkeys settings, sound toggle under settings, .fc macro file extension support, and bulletproof global hotkey handling."
+  "changelog": "Increase App Size.On Press Esc To Exit"
 }
